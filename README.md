@@ -159,7 +159,13 @@ cat docker/firewall/policy_OFF.yaml > docker/firewall/policy.yaml
 [![Demonstration of running the CSP firewall](https://img.youtube.com/vi/R0oYROGg4cs/0.jpg)](https://www.youtube.com/watch?v=R0oYROGg4cs)
 [![Demonstration of running the exploit test](https://img.youtube.com/vi/D0oXyNb3ij0/0.jpg)](https://www.youtube.com/watch?v=D0oXyNb3ij0)
 
-
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Stargate is licensed under the [MIT License](LICENSE).
+
+This project uses third-party open-source software that remains subject to its respective licenses, including:
+
+- [libcsp](https://github.com/libcsp/libcsp) — MIT License
+- [SUCHAI Flight Software v2](https://gitlab.com/spel-uchile/flight-software/suchai-flight-software-v2) — Apache License 2.0
+
+See the respective upstream projects for their complete license terms.

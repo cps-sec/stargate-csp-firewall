@@ -13,21 +13,15 @@ Stargate is a modular firewall that block malicious CSP traffic. Stargate suppor
 
 ## Research Paper
 
-**Placeholder** 
+**Stargate: Security Analysis and Mission-Aware Firewall for the CubeSat Space Protocol** 
 
 If you use our work in a scientific publication, please do cite us using this **BibTex** entry:
 ``` tex
-@inproceedings {,
-author = {},
-title = {},
-booktitle = {},
-year = {},
-isbn = {},
-address = {},
-pages = {},
-url = {},
-publisher = {},
-month = 
+@inproceedings{ramsey2026stargate,
+  author    = {Owen Ramsey and Carlos Gonzalez-Cortes and Efr{\'e}n L{\'o}pez-Morales},
+  title     = {Stargate: Security Analysis and Mission-Aware Firewall for the CubeSat Space Protocol},
+  booktitle = {Proceedings of the IEEE International Conference on Resilience and Integrated Security for Space and Critical Systems (RISC)},
+  year      = {2026}
 }
 ```
 

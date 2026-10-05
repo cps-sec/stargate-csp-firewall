@@ -53,10 +53,10 @@ sudo apt install -y docker.io docker-compose
 ### Installing
 
 ```bash
-git clone git@github.com:oramsey/csp-firewall.git
+git clone https://github.com/cps-sec/stargate-csp-firewall.git
 ```
 ```bash
-cd csp-firewall
+cd stargate-csp-firewall
 ```
 ```bash
 git submodule update --init --recursive

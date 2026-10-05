@@ -160,14 +160,6 @@ cat docker/firewall/policy_OFF.yaml > docker/firewall/policy.yaml
 [![Demonstration of running the exploit test](https://img.youtube.com/vi/D0oXyNb3ij0/0.jpg)](https://www.youtube.com/watch?v=D0oXyNb3ij0)
 
 
-
-## Authors
-
-Anonymized for peer review
-
-
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
